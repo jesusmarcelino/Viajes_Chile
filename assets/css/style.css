@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    }
+
+body * {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    }
+
+.barra-flotante {
+        width: 100%;
+        position: fixed;
+        z-index: 100;
+    }
+
+.barra-azul {
+height: 20px;
+background-color: #0dcaf0;
+}
+
+footer {
+    background-color: #0dcaf0; 
+    text-align: center;
+}
