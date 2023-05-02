@@ -10,6 +10,7 @@ body * {
     border: 0;
     padding: 0;
     overflow: hidden;
+    font-family: 'Open Sans', sans-serif;
     }
 
 .block-hover-h2 {
