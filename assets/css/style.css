@@ -2,13 +2,20 @@ body {
     margin: 0;
     border: 0;
     padding: 0;
+    scroll-behavior: smooth
     }
 
 body * {
     margin: 0;
     border: 0;
     padding: 0;
+    overflow: hidden;
     }
+
+.block-hover-h2 {
+    background-color: #0dcaf0;
+    text-shadow: 1px 1px 2px black;
+}
 
 .barra-flotante {
         width: 100%;
@@ -17,8 +24,9 @@ body * {
     }
 
 .barra-azul {
-height: 20px;
+height: 50px;
 background-color: #0dcaf0;
+text-align: center;
 }
 
 footer {
